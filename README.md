@@ -30,7 +30,6 @@
 </p>
 
 <h3 align="left">What I'm learning:</h3>
-</p>
 
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -41,14 +40,35 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a>
 </p>
+<p>... to build a web application for the <a href="https://wool-wanted.web.app/" target='_blank'>Wool Wanted</a> web shop and to build the platform <a href="https://ultimate-bots.web.app/" target='_blank'>Ultimate Bots</a> where I can rent my trading strategies. Both of these are still in development.</p>
 
 ---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=btschwertfeger&show_icons=true&locale=en&layout=compact" alt="btschwertfeger" /></div>
+<!-- <h4>Some of my websites for lectures and courses related to my work at the Alfred-Wegener-Institute:</h4>
+<ul>
+
+<li><a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Daisy World Model</a>
+<li><a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Orbital Theory of Ice Ages</a>
+<li><a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/EnergyBalanceModels/index.html" target='_blank'>Energy Balance Models</a>
+<li><a href="https://b-schwertfeger.de/projects/awi-work/FoucaultsPendulum/" target='_blank'>Fourcaults Pendulum</a>
+<li><a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/BrownianMotion/index.html" target='_blank'>Brownian Motion</a>
+<li><a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/RandomSystems/index.html" target='_blank'>Random Systems</a>
+<li><a href="https://b-schwertfeger.de/projects/awi-work/GrowthModel" target='_blank'>Growth Model</a>
+
+</ul> -->
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=btschwertfeger&show_icons=true&locale=en&layout=compact" alt="btschwertfeger" /></div> -->
+
+<!-- GitLab: <a href="https://gitlab.hzdr.de/benjamin.schwertfeger">https://gitlab.hzdr.de/benjamin.schwertfeger</a> -->
+
+If you are interested in climatic processes or are looking for illustrative examples and learning content, several of my websites are listed below. They cover different topics and allow the dynamic visualization of different climatic processes and models:
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Daisy World Model</a>,
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Orbital Theory of Ice Ages</a>,
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/EnergyBalanceModels/index.html" target='_blank'>Energy Balance Models</a>,
+<a href="https://b-schwertfeger.de/projects/awi-work/FoucaultsPendulum/" target='_blank'>Fourcaults Pendulum</a>,
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/BrownianMotion/index.html" target='_blank'>Brownian Motion</a>,
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/RandomSystems/index.html" target='_blank'>Random Systems</a>,
+<a href="https://b-schwertfeger.de/projects/awi-work/GrowthModel" target='_blank'>Growth Model</a>
 
 ---
 
-<p>
-GitLab: <a href="https://gitlab.hzdr.de/benjamin.schwertfeger">https://gitlab.hzdr.de/benjamin.schwertfeger</a>
-
-PyPI: <a href="https://pypi.org/user/btschwertfeger/">https://pypi.org/user/btschwertfeger/</a>
+PyPI: <a href="https://pypi.org/user/btschwertfeger/">https://pypi.org/user/btschwertfeger</a>
