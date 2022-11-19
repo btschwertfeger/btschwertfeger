@@ -62,7 +62,7 @@
 
 If you are interested in climatic processes or are looking for illustrative examples and learning content, several of my websites are listed below. They cover different topics and allow the dynamic visualization of different climatic processes and models:
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Daisy World Model</a>,
-<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Orbital Theory of Ice Ages</a>,
+<a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/OrbitalTheoryOfIceAges/index.html" target='_blank'>Orbital Theory of Ice Ages</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/EnergyBalanceModels/index.html" target='_blank'>Energy Balance Models</a>,
 <a href="https://b-schwertfeger.de/projects/awi-work/FoucaultsPendulum/" target='_blank'>Fourcaults Pendulum</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/BrownianMotion/index.html" target='_blank'>Brownian Motion</a>,
