@@ -40,7 +40,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a>
 </p>
-<p>... to build a web application for the <a href="https://wool-wanted.web.app/" target='_blank'>Wool Wanted</a> web shop and to build the platform <a href="https://ultimate-bots.web.app/" target='_blank'>Ultimate Bots</a> where I can rent my trading strategies. Both of these are still in development.</p>
+<p>... to build the <a href="https://wool-wanted.web.app/" target='_blank'>Wool Wanted</a> portfolio web application for my mom's knitting wear.</p>
 
 ---
 
