@@ -64,7 +64,7 @@ If you are interested in climatic processes or are looking for illustrative exam
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Daisy World Model</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/OrbitalTheoryOfIceAges/index.html" target='_blank'>Orbital Theory of Ice Ages</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/EnergyBalanceModels/index.html" target='_blank'>Energy Balance Models</a>,
-<a href="https://b-schwertfeger.de/projects/awi-work/FoucaultsPendulum/" target='_blank'>Fourcaults Pendulum</a>,
+<a href="https://github.com/btschwertfeger/Foucaults-Pendulum-Website" target='_blank'>Fourcaults Pendulum</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/BrownianMotion/index.html" target='_blank'>Brownian Motion</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/RandomSystems/index.html" target='_blank'>Random Systems</a>,
 <a href="https://b-schwertfeger.de/projects/awi-work/GrowthModel" target='_blank'>Growth Model</a>
