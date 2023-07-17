@@ -1,59 +1,59 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate developer from Germany</h3>
-<p>... who likes working with APIs, data visualization and trading cryptocurrencies using automated trading strategies.
+<div align=right>
 
-Topics related to project management, CI/CD, DevOps, server clusters, and distributed systems interest me a lot, and since I'm working at [CONTACT Software GmbH](https://www.contact-software.com/de/) I have the chance to learn, use, and apply new techniques and frameworks with my great team every day.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-thomas-schwertfeger/)](https://www.linkedin.com/in/benjamin-thomas-schwertfeger/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjamin-thomas-schwertfeger%2F&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
+### Hi 👋, I'm Benjamin
+
+<h3 align="center"></h3>
+
+… **a passionate developer from Germany** who likes working with APIs, data visualization and trading cryptocurrencies using automated trading strategies.
+
+Topics related to project management, DevOps, CI/CD, server clusters, and distributed systems interest me a lot, and since I'm working at [CONTACT Software GmbH](https://www.contact-software.com/de/) I have the chance to learn, use, and apply new techniques and frameworks with my great team every day.
+
+<!-- ## Languages and Tools -->
+
+<!-- <p align="left">
+<a href="https://github.com/dsdanielpark">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=btschwertfeger&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=btschwertfeger&layout=compact&langs_count=8&theme=nord"/>
+</a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<img alt="python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img alt="Cpp" width="40px" height="40px" src="https://www.vectorsoft.de/wp-content/uploads/2019/10/C_API-300x300.png" />
-<img alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<img alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=green)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue)
+![Postgres](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions) ![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=flat-square&logo=Bitcoin)
+![Mac](https://img.shields.io/badge/-Mac-black?style=flat-square&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-<p align="center">
-<img alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="Vim" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
-<img alt="Jupyter" height="40px" width="40px" src="https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" />
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://docker.com" target="_blank" rel="noreferrer">
-<img alt="Docker" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img alt="Kubernetes" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/></a>
-</p>
+## Activity
 
-<p align="center">
-<img alt="numpy" width="40px" height="40px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
-<img alt="matplotlib" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
-<img alt="xarray" width="40px" height="40px" src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" />
-<img alt="dask" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dask_logo.svg/1200px-Dask_logo.svg.png">
-<img alt="netCDF" width="40px" height="40px" src="https://tools.clm-community.eu/docs/ncdf4Utils/files/de22d5ea-8308-4ffe-b04d-e5a424d4f5a2.png" />
-<img alt="Node" width="40px" height="40px" src="https://icon2.cleanpng.com/20180821/qae/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fbb78ba2.1805803115348840917518.jpg" />
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<img alt="MySQL" width="40px" height="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<a href="https://kraken.com" target="_blank" rel="noreferrer"><img alt="Kraken" width="40px" height="40px" src="https://support.kraken.com/hc/article_attachments/360071515791/RetailApp_Icon_10012020.png"></a>
-<a href="https://www.kucoin.com/r/rf/rJ8SPWA" target="_blank" rel="noreferrer"><img alt="KuCoin" width="40px" height="40px" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5a544749b894c90a88f69278/0x0.png"> </a>
-</p>
-<!--
-<h3 align="left">What I'm learning:</h3>
+### _Core Projects_
 
-<p align="center">
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a>
-</p>
-<p>... to build the <a href="https://wool-wanted.web.app/" target='_blank'>Wool Wanted</a> portfolio web application for my mom's knitting wear as well as an app to rent my trading strategies using Kubernetes cluster to scale the work load.</p> -->
+| Project                                                                                                                                   | Description                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| python-kraken-sdk <br> [![pypi](https://img.shields.io/badge/pypi-python--kraken--sdk-blue)](https://pypi.org/project/python-kraken-sdk/) | The python-kraken-sdk is a collection of REST and websocket clients to access the <a href="https://kraken.com" target="_blank">Kraken</a> Cryptocurrency Exchange API using Python.<br> [[Github]](https://github.com/btschwertfeger/python-kraken-sdk) |
+| Gathering <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                         | Gathering is a private tool that a mate and I developed to gather all data sent by [Kraken](https://kraken.com) to store them within a Postgres database. These information form the base for a backtesting framework we develop.                       |
+| AmazingTrade <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                      | AmazingTrade is a tool, application and framework a mate and I develop to backtest and apply trading strategies in a modularized architecture.                                                                                                          |
 
----
+### _More Projects_
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=btschwertfeger&show_icons=true&locale=en&layout=compact" alt="btschwertfeger" /></div> -->
+| Project                                                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BiasAdjustCXX <br> [![DOI](https://zenodo.org/badge/495881923.svg)](https://zenodo.org/badge/latestdoi/495881923) <br> [![Publication](https://img.shields.io/badge/Publication-doi.org%2F10.1016%2Fj.softx.2023.101379-blue)](https://doi.org/10.1016/j.softx.2023.101379) | BiasAdjustCXX is a command-line tool written in C++ that enables the fast and efficient computation of bias corrected time series climate data providing several scaling- and distribution-based techniques. <br>[[Github]](https://github.com/btschwertfeger/BiasAdjustCXX) |
+| python-cmethods <br> [![pypi](https://img.shields.io/badge/pypi-python--cmethods-blue)](https://pypi.org/project/python-cmethods/)                                                                                                                                          | The python-cmethods package is similar to BiasAdjustCXX -- but written in Python. <br>[[Github]](https://github.com/btschwertfeger/python-cmethods)                                                                                                                          |
+| KrakenEx.jl <br> [![JuliaHub](https://img.shields.io/badge/JuliaHub-KrakenEx.jl-blue)](https://juliahub.com/ui/Packages/KrakenEx/C18NY/1.0.0)                                                                                                                               | The KrakenEx.jl package is a collection of REST and websocket clients to access the <a href="https://kraken.com" target="_blank">Kraken</a> Cryptocurrency Exchange API using Julia.<br> [[Github]](https://github.com/btschwertfeger/KrakenEx.jl)                           |
+| kraken-rebalance-bot <br> [![pypi](https://img.shields.io/badge/pypi-python--kraken--sdk-blue)](https://pypi.org/project/python-kraken-sdk/)                                                                                                                                | These package is a simple trading bot that can be run using the command-line. It serves as supplement for the [python-kraken-sdk](https://pypi.org/project/python-kraken-sdk/). <br> [[Github]](https://github.com/btschwertfeger/kraken-rebalance-bot)                      |
+
+## Outreach
 
 If you are interested in climatic processes or are looking for illustrative examples and learning content, several of my websites are listed below. They cover different topics and allow the dynamic visualization of different climatic processes and models:
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/DaisyWorld/index.html" target='_blank'>Daisy World Model</a>,
@@ -64,7 +64,15 @@ If you are interested in climatic processes or are looking for illustrative exam
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/RandomSystems/index.html" target='_blank'>Random Systems</a>,
 <a href="https://b-schwertfeger.de/projects/awi-work/GrowthModel" target='_blank'>Growth Model</a>
 
+<!-- ---
+
+<div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=btschwertfeger&show_icons=true&theme=gotham" alt="btschwertfeger" title="GitHub-Stats" style="max-height: 100%; width: auto;" /></a>
+</div> -->
+
 ---
+
+<!-- Stackoverflow: <a href="https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger" target="_blank"> https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger</a> <br> -->
 
 PyPI: <a href="https://pypi.org/user/btschwertfeger/" target="_blank">https://pypi.org/user/btschwertfeger</a> <br>
 Dockerhub: <a href="https://hub.docker.com/u/btschwertfeger" target="_blank">https://hub.docker.com/u/btschwertfeger</a> <br>
