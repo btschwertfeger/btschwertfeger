@@ -42,6 +42,15 @@ every day.
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
+---
+PyPI: <a href="https://pypi.org/user/btschwertfeger/" target="_blank">https://pypi.org/user/btschwertfeger</a> <br>
+Dockerhub: <a href="https://hub.docker.com/u/btschwertfeger" target="_blank">https://hub.docker.com/u/btschwertfeger</a> <br>
+GitLab: <a href="https://codebase.helmholtz.cloud/benjamin.schwertfeger" target="_blank">https://codebase.helmholtz.cloud/benjamin.schwertfeger</a><br>
+Stackoverflow: <a
+href="https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger"
+target="_blank">
+https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger</a> <br>
+
 ## Private Activities
 
 ### _Core Projects_
@@ -79,9 +88,4 @@ If you are interested in climatic processes or are looking for illustrative exam
 
 ---
 
-<!-- Stackoverflow: <a href="https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger" target="_blank"> https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger</a> <br> -->
 
-PyPI: <a href="https://pypi.org/user/btschwertfeger/" target="_blank">https://pypi.org/user/btschwertfeger</a> <br>
-Dockerhub: <a href="https://hub.docker.com/u/btschwertfeger" target="_blank">https://hub.docker.com/u/btschwertfeger</a> <br>
-
-<!-- GitLab: <a href="https://gitlab.hzdr.de/benjamin.schwertfeger">https://gitlab.hzdr.de/benjamin.schwertfeger</a> <br>-->
