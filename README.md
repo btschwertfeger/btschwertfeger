@@ -14,12 +14,6 @@
 visualization and trading stocks and cryptocurrencies using automated trading
 strategies.
 
-Topics related to project management, SD/QA, DevOps, CI/CD, Kubernetes, and distributed
-systems interest me a lot, and since I'm working at
-[CONTACT Software GmbH](https://www.contact-software.com/de/) I have the chance
-to learn, use, build and apply new techniques and frameworks with my great team
-every day.
-
 <!-- ## Languages and Tools -->
 
 <!-- <p align="left">
