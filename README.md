@@ -17,11 +17,11 @@ strategies.
 <!-- ## Languages and Tools -->
 
 <!-- <p align="left">
-<a href="https://github.com/dsdanielpark">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=btschwertfeger&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=btschwertfeger&layout=compact&langs_count=8&theme=nord"/>
-</a> -->
-</p>
+  <a href="https://github.com/dsdanielpark">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=btschwertfeger&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=btschwertfeger&layout=compact&langs_count=8&theme=nord"/>
+  </a>
+</p> -->
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=green)
@@ -36,32 +36,30 @@ strategies.
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
----
-PyPI: <a href="https://pypi.org/user/btschwertfeger/" target="_blank">https://pypi.org/user/btschwertfeger</a> <br>
-Dockerhub: <a href="https://hub.docker.com/u/btschwertfeger" target="_blank">https://hub.docker.com/u/btschwertfeger</a> <br>
-GitLab: <a href="https://codebase.helmholtz.cloud/benjamin.schwertfeger" target="_blank">https://codebase.helmholtz.cloud/benjamin.schwertfeger</a><br>
-Stackoverflow: <a
-href="https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger"
-target="_blank">
-https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger</a> <br>
+
 
 ## Private Activities
+
+[`[PyPI]`](https://pypi.org/user/btschwertfeger/)
+[`[Dockerhub]`](https://hub.docker.com/u/btschwertfeger)
+[`[GitLab]`](https://codebase.helmholtz.cloud/benjamin.schwertfeger)
+[`[Stackoverflow]`](https://stackoverflow.com/users/13618168/benjamin-t-schwertfeger)
 
 ### _Core Projects_
 
 | Project                                                                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| python-kraken-sdk <br> [![pypi](https://img.shields.io/badge/pypi-python--kraken--sdk-blue)](https://pypi.org/project/python-kraken-sdk/) | The python-kraken-sdk is a collection of REST and websocket clients to access the <a href="https://kraken.com" target="_blank">Kraken</a> cryptocurrency exchange API using Python.<br> [[Github]](https://github.com/btschwertfeger/python-kraken-sdk)                                                                                                                                          |
-| python-cmethods <br> [![pypi](https://img.shields.io/badge/pypi-python--cmethods-blue)](https://pypi.org/project/python-cmethods/)        | A collection of bias correction techniques written in Python - for climatic research. <br>[[Github]](https://github.com/btschwertfeger/python-cmethods)                                                                                                                                                                                                                                          |
-| wavetrend-service <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                 | Containing the closed-source command-line tool "wavetrend" which uses the [Kraken](https://kraken.com) and [Polygon.io](https://polygon.io/) APIs to apply a custom trading strategy. This tool runs as service in a private Kubernetes cluster and sends the detected long and short opportunities into the [WavetrendSignalBroadcast](https://t.me/WavetrendSignalBroadcast) Telegram channel. |
-| genai <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                 | Introducing a versatile command-line tool that seamlessly integrates a local Large Language Model (LLM) for generating prompts, which are then fed into a stable diffusion model executed locally. The result? Stunning designs and illustrations that are automatically uploaded to [Redbubble](https://www.redbubble.com/de/people/CrynetOmega/shop) and [Spreadshirt](https://mystic-mood.myspreadshop.de/) for effortless sharing and showcasing.
+| python-kraken-sdk <br> [![pypi](https://img.shields.io/badge/pypi-python--kraken--sdk-blue)](https://pypi.org/project/python-kraken-sdk/) | The python-kraken-sdk is a collection of REST and websocket clients to access the <a href="https://kraken.com" target="_blank">Kraken</a> cryptocurrency exchange API using Python.<br> [`[Github]`](https://github.com/btschwertfeger/python-kraken-sdk) [`[PyPI]`](https://pypi.org/project/python-kraken-sdk/) [`[Documentation]`](https://python-kraken-sdk.readthedocs.io/en/stable/)                                                                                                                                        |
+| python-cmethods <br> [![pypi](https://img.shields.io/badge/pypi-python--cmethods-blue)](https://pypi.org/project/python-cmethods/)        | A collection of bias correction techniques written in Python - for climatic research. <br>[`[Github]`](https://github.com/btschwertfeger/python-cmethods) [`[PyPI]`](https://pypi.org/project/python-cmethods/) [`[Conda Forge]`](https://anaconda.org/conda-forge/python_cmethods) [`[Documentation]`](https://python-cmethods.readthedocs.io/en/stable/)                                                                                                                                                                                                                                         |
+| wavetrend-service <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                 | Including the closed-source command-line tool "wavetrend" which uses the [Kraken](https://kraken.com) and [yfinance](https://github.com/ranaroussi/yfinance) APIs to apply a custom trading strategy based on fundamental data and momentum. This software runs as a service service and sends the detected long and short opportunities into the [WavetrendSignalBroadcast](https://t.me/WavetrendSignalBroadcast) Telegram channel. |
+
 ### _Other Projects_
 
 | Project                                                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BiasAdjustCXX <br> [![DOI](https://zenodo.org/badge/495881923.svg)](https://zenodo.org/badge/latestdoi/495881923) <br> [![Publication](https://img.shields.io/badge/Publication-doi.org%2F10.1016%2Fj.softx.2023.101379-blue)](https://doi.org/10.1016/j.softx.2023.101379) | BiasAdjustCXX is a command-line tool written in C++ that enables the fast and efficient computation of bias corrected time series climate data providing several scaling- and distribution-based techniques. <br>[[Github]](https://github.com/btschwertfeger/BiasAdjustCXX) |
-| KrakenEx.jl <br> [![JuliaHub](https://img.shields.io/badge/JuliaHub-KrakenEx.jl-blue)](https://juliahub.com/ui/Packages/KrakenEx/C18NY/1.0.0)                                                                                                                               | The KrakenEx.jl package is a collection of REST and websocket clients to access the <a href="https://kraken.com" target="_blank">Kraken</a> Cryptocurrency Exchange API using Julia.<br> [[Github]](https://github.com/btschwertfeger/KrakenEx.jl)                           |
-| kraken-rebalance-bot <br> [![pypi](https://img.shields.io/badge/pypi-kraken--rebalance--bot-blue)](https://pypi.org/project/kraken-rebalance-bot/)                                                                                                                          | These package is a simple trading bot that can be run using the command-line. It serves as supplement for the [python-kraken-sdk](https://pypi.org/project/python-kraken-sdk/). <br> [[Github]](https://github.com/btschwertfeger/kraken-rebalance-bot)                      |
+| BiasAdjustCXX <br> [![DOI](https://zenodo.org/badge/495881923.svg)](https://zenodo.org/badge/latestdoi/495881923) <br> [![Publication](https://img.shields.io/badge/Publication-doi.org%2F10.1016%2Fj.softx.2023.101379-blue)](https://doi.org/10.1016/j.softx.2023.101379) | BiasAdjustCXX is a command-line tool written in C++ that enables the fast and efficient computation of bias corrected time series climate data providing several scaling- and distribution-based techniques. <br>[`[Github]`](https://github.com/btschwertfeger/BiasAdjustCXX) |
+| kraken-rebalance-bot <br> [![pypi](https://img.shields.io/badge/pypi-kraken--rebalance--bot-blue)](https://pypi.org/project/kraken-rebalance-bot/)                                                                                                                          | These package is a simple trading bot that can be run using the command-line. It serves as supplement for the [python-kraken-sdk](https://pypi.org/project/python-kraken-sdk/). <br> [`[Github]`](https://github.com/btschwertfeger/kraken-rebalance-bot) [`[PyPI]`](https://pypi.org/project/kraken-rebalance-bot/)                     |
+| genai <br>![Static Badge](https://img.shields.io/badge/project-a?label=private&labelColor=black&color=orange)                 | Introducing a command-line tool designed for creative automation. This tool integrates ChatGPT to generate text prompts and tags, which are then fed back into an image generation model. The generated artwork and designs are automatically uploaded to [Redbubble](https://www.redbubble.com/de/people/CrynetOmega/shop) and [Spreadshirt](https://mystic-mood.myspreadshop.de/) for effortless sharing and showcasing.
 
 ## Outreach
 
