@@ -75,7 +75,7 @@ processes and models:
 <a href="https://github.com/btschwertfeger/Foucaults-Pendulum-Website" target='_blank'>Fourcaults Pendulum</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/BrownianMotion/index.html" target='_blank'>Brownian Motion</a>,
 <a href="https://www.awi.de/fileadmin/user_upload/AWI/Forschung/Klimawissenschaft/Dynamik_des_Palaeoklimas/RandomSystems/index.html" target='_blank'>Random Systems</a>,
-<a href="https://b-schwertfeger.de/projects/awi-work/GrowthModel" target='_blank'>Growth Model</a>
+<a href="https://btschwertfeger.github.io/Growth-Model-Website/" target='_blank'>Growth Model</a>
 
 <!-- ---
 
