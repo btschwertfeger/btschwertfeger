@@ -13,7 +13,6 @@ and connect with me!
 <div align=right>
 
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-thomas-schwertfeger/)](https://www.linkedin.com/in/benjamin-thomas-schwertfeger/)
 
 </div>
@@ -22,7 +21,7 @@ and connect with me!
 
 <h3 align="center"></h3>
 
-… **a passionate developer from Germany** who likes working with Docker,
+… **a passionate engineer from Germany** who likes working with Docker,
 Kubernetes, virtualization, and trading stocks and cryptocurrencies using
 automated trading strategies.
 
